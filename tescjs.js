@@ -6,6 +6,7 @@ let dupa = (value) =>{
 let masterF = () => {
     //to jest chuj wie co?
     console.log("master");
+    //to jest z mastera ale pierdol to
 }
 
-console.log(masterF());
+console.log(masterF("to jest chuj wi c"));
