@@ -1,4 +1,12 @@
 console.log("branch master");
+let s function(){
+    console.log("dupeczka");
+}
+
+console.log(masterF("to jest chuj wi c"));
+
+
+
 let dupa = (value) =>{
     console.log("to jest z brancha javascript");
 
@@ -8,5 +16,3 @@ let masterF = () => {
     console.log("master");
     //to jest z mastera ale pierdol to
 }
-
-console.log(masterF("to jest chuj wi c"));
