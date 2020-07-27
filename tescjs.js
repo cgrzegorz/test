@@ -1,18 +1,19 @@
-console.log("branch master");
-let s function(){
-    console.log("dupeczka");
+let masterF = () => {
+    //to jest chuj wie co?
+    console.log("mastesdsdsdr");
+    //to jest z mastera ale pierdol to
 }
+console.log("brancsdsdsdh master");
 
-console.log(masterF("to jest chuj wi c"));
+
+console.log(masterF("to jest chujsdsdsdsd wi c"));
 
 
 
 let dupa = (value) =>{
-    console.log("to jest z brancha javascript");
+    console.log("to jest z brancha javascriptsdsdsdsdsdsd");
 
 }
-let masterF = () => {
-    //to jest chuj wie co?
-    console.log("master");
-    //to jest z mastera ale pierdol to
+let s function(){
+    console.log("dupesdsdsdsdczka");
 }
